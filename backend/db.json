@@ -15,6 +15,13 @@
       "prioridade": "Normal"
     },
     {
+      "id": 3,
+      "descricao": "Estudar",
+      "categoria": "Estudos",
+      "statusFinalizado": false,
+      "prioridade": "Baixa"
+    },
+    {
       "id": 4,
       "descricao": "Preencher formulário de inscrição",
       "categoria": "Trabalho",
