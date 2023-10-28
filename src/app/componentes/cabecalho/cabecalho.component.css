@@ -1,0 +1,19 @@
+.cabecalho {
+  margin-bottom: 2rem;
+  height: 10rem;
+  display: flex;
+  flex-direction: column;
+  background-image: url("/assets/imagens/banner.png")
+}
+
+.titulo {
+  margin-top: 3rem;
+  font-family: 'Prompt';
+  font-style: normal;
+  font-size: 48px;
+  text-align: center;
+  color: #fff;
+  font-weight: 400;
+  line-height: 73px;
+}
+
